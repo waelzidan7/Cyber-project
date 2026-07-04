@@ -1,0 +1,16 @@
+# Dataset (102 MB) is downloaded on demand, never committed.
+data/*.csv
+
+# Python / virtualenv
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# logs
+*.log
